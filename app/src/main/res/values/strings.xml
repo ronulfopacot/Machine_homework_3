@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pactz`Burger</string>
+    <string name="burger">Burger Type</string>
+    <string name="chicken">Chicken</string>
+    <string name="beef">Beef</string>
+    <string name="adds">Add-Ons</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="bacon">Bacon</string>
+    <string name="pickels">Pickels</string>
+    <string name="cheese">Cheese</string>
+    <string name="mustard">Mustard</string>
+</resources>
